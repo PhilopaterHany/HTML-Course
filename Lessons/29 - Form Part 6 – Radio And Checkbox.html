@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Book Store</title>
+        <meta name="description" content="This Is Our Book Store" />
+    </head>
+    <body>
+        <div>
+            <h1>Book Store</h1>
+            <p>This Is My Book Store, Welcome</p>
+        </div>
+        <form action="" method="GET">
+            <input type="hidden" value="Osama" />
+            <div>
+                <label>Username</label>
+                <input
+                    type="text"
+                    required
+                    placeholder="Username"
+                    name="user"
+                    value="Osama"
+                    readonly
+                />
+            </div>
+            <br />
+            <div>
+                <label>Subject</label>
+                <input type="text" name="subject" autofocus />
+            </div>
+            <br />
+            <div>
+                <label>Password</label>
+                <input
+                    type="password"
+                    required
+                    placeholder="Write A Complex Password"
+                    name="pass"
+                    minlength="10"
+                    maxlength="20"
+                />
+            </div>
+            <br />
+            <div>
+                <label>Email</label>
+                <input
+                    type="email"
+                    required
+                    placeholder="Write A Valid Email"
+                    value="o@nn.sa"
+                    name="mail"
+                    disabled
+                />
+            </div>
+            <br />
+            <div>
+                <label>Color</label>
+                <input type="color" name="Color" />
+            </div>
+            <br />
+            <div>
+                <label>Range</label>
+                <input
+                    type="range"
+                    name="range"
+                    min="0"
+                    max="100"
+                    step="20"
+                    value="80"
+                />
+            </div>
+            <br />
+            <div>
+                <label for="num">Number</label>
+                <input
+                    id="num"
+                    type="number"
+                    name="number"
+                    min="10"
+                    max="100"
+                    step="10"
+                />
+            </div>
+            <hr />
+            <div>
+                <input
+                    id="win"
+                    type="radio"
+                    name="os"
+                    value="Windows"
+                    checked
+                />
+                <label for="win">Windows</label>
+            </div>
+            <div>
+                <input id="lin" type="radio" name="os" value="Linux" />
+                <label for="lin">Linux</label>
+            </div>
+            <div>
+                <input id="mac" type="radio" name="os" value="Mac" />
+                <label for="mac">Mac</label>
+            </div>
+            <hr />
+            <div>
+                <input
+                    id="win1"
+                    type="checkbox"
+                    name="os"
+                    value="Windows"
+                    checked
+                />
+                <label for="win1">Windows</label>
+            </div>
+            <div>
+                <input id="lin1" type="checkbox" name="os" value="Linux" />
+                <label for="lin1">Linux</label>
+            </div>
+            <div>
+                <input id="mac1" type="checkbox" name="os" value="Mac" />
+                <label for="mac1">Mac</label>
+            </div>
+            <br />
+            <input type="reset" value="Reset" />
+            <input type="submit" value="Save" />
+        </form>
+    </body>
+</html>

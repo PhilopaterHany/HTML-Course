@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Book Store</title>
+        <meta name="description" content="This Is Our Book Store" />
+    </head>
+    <body>
+        <!-- ARIA -->
+        <h1>Book Title</h1>
+
+        <h3>Chapter One</h3>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
+            voluptas placeat necessitatibus nulla velit quae reprehenderit minus
+            fugiat illo tempora eaque, ullam corrupti doloribus perspiciatis
+            unde rem perferendis nesciunt aspernatur!
+        </p>
+        <div>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus
+            quisquam sed at reiciendis asperiores officia similique id non,
+            ducimus nobis possimus eligendi itaque magni molestias illum quam
+            beatae. Velit, facilis?
+        </div>
+        <h2>Inside Chapter One</h2>
+        <form action="">
+            <label for="skill1">Skill One</label>
+            <input id="skill1" type="checkbox" checked />
+            <label for="skill2">Skill Two</label>
+            <input id="skill2" type="checkbox" />
+        </form>
+        <hr />
+        <div
+            role="checkbox"
+            aria-checked="true"
+            tabindex="0"
+            aria-labelledby="plan1"
+        >
+            Plan One
+        </div>
+        <label id="plan1">Plan One Label</label>
+        <div tabindex="0">Plan Two</div>
+        <div tabindex="0">Plan Three</div>
+    </body>
+</html>
