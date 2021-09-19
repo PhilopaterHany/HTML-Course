@@ -21,79 +21,79 @@
 ---
 ## Lessons
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 01 - [Introduction And What I Need To Learn ?]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 01 - [Introduction And What I Need To Learn ?](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/01%20%E2%80%93%20Introduction%20and%20What%20I%20Need%20To%20Learn.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 02 - [Elements And Browser]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 02 - [Elements And Browser](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/02%20%E2%80%93%20Elements%20and%20Browser.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 03 - [First Project And First Page]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 03 - [First Project And First Page](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/03%20-%20First%20Project%20And%20First%20Page.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 04 - [Head And Nested Elements]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 04 - [Head And Nested Elements](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/04%20-%20Head%20And%20Nested%20Elements.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 05 - [Comments And Use Cases]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 05 - [Comments And Use Cases](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/05%20-%20Comments%20And%20Use%20Cases.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 06 - [Doctype And Standard And Quirks Mode]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 06 - [Doctype And Standard And Quirks Mode](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/06%20-%20Doctype%20And%20Standard%20And%20Quirks%20Mode.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 07 - [Headings And Use Cases]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 07 - [Headings And Use Cases](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/07%20-%20Headings%20And%20Use%20Cases.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 08 - [Syntax And Tests]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 08 - [Syntax And Tests](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/08%20-%20Syntax%20And%20Tests.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 09 - [Paragraph Element]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 09 - [Paragraph Element](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/09%20-%20Paragraph%20Element.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 10 - [Element Attributes]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 10 - [Element Attributes](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/10%20-%20Elements%20Attributes.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 11 - [Formatting Elements]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 11 - [Formatting Elements](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/11%20-%20Formatting%20Elements.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 12 - [Links – Anchor Tag]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 12 - [Links – Anchor Tag](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/12%20-%20Links%20%E2%80%93%20Anchor%20Tag.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 13 - [Image And Deal With Paths]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 13 - [Image And Deal With Paths](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/13%20-%20Image%20And%20Deal%20With%20Paths.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 14 - [Lists – Ul, Ol, DL]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 14 - [Lists – Ul, Ol, DL](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/14%20-%20Lists%20%E2%80%93%20Ul%2C%20Ol%2C%20Dl.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 15 - [Table]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 15 - [Table](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/15%20-%20Table.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 16 - [Span And Break And Horizontal Rule]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 16 - [Span And Break And Horizontal Rule](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/16%20-%20Span%20And%20Break%20And%20Horizontal%20Rule.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 17 - [Div And How To Use]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 17 - [Div And How To Use](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/17%20-%20Div%20And%20How%20To%20Use.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 18 - [HTML Entities]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 18 - [HTML Entities](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/18%20-%20HTML%20Entities.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 19 - [Semantic Elements]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 19 - [Semantic Elements](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/19%20-%20Semantic%20Elements.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 20 - [Layout With Div And Classes]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 20 - [Layout With Div And Classes](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/20%20-%20Layout%20With%20Div%20And%20Classes.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 21 - [Layout With Semantic Elements]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 21 - [Layout With Semantic Elements](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/21%20-%20Layout%20With%20Semantic%20Elements.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 22 - [Audio]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 22 - [Audio](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/22%20-%20Audio.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 23 - [Video]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 23 - [Video](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/23%20-%20Video.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 24 - [Form Part 1 – Input Types And Label]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 24 - [Form Part 1 – Input Types And Label](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/24%20-%20Form%20Part%201%20%E2%80%93%20Input%20Types%20And%20Label.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 25 - [Form Part 2 – Required, Placeholder, Value]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 25 - [Form Part 2 – Required, Placeholder, Value](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/25%20-%20Form%20Part%202%20%E2%80%93%20Required%2C%20Placeholder%2C%20Value.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 26 - [Form Part 3 – Action, Name, Method]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 26 - [Form Part 3 – Action, Name, Method](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/26%20-%20Form%20Part%203%20%E2%80%93%20Action%2C%20Name%2C%20Method.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 27 - [Form Part 4 – Hidden, Reset, Color, Range, Number]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 27 - [Form Part 4 – Hidden, Reset, Color, Range, Number](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/27%20-%20Form%20Part%204%20%E2%80%93%20Hidden%2C%20Reset%2C%20Color%2C%20Range%2C%20Number.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 28 - [Form Part 5 – Read Only, Disabled, Auto Focus]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 28 - [Form Part 5 – Read Only, Disabled, Auto Focus](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/28%20-%20Form%20Part%205%20%E2%80%93%20Read%20Only%2C%20Disabled%2C%20Auto%20Focus.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 29 - [Form Part 6 – Radio And Checkbox]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 29 - [Form Part 6 – Radio And Checkbox](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/29%20-%20Form%20Part%206%20%E2%80%93%20Radio%20And%20Checkbox.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 30 - [Form Part 7 – Select And Textarea]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 30 - [Form Part 7 – Select And Textarea](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/30%20-%20Form%20Part%207%20%E2%80%93%20Select%20And%20Textarea.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 31 - [Form Part 8 – File, Search, URL, Time]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 31 - [Form Part 8 – File, Search, URL, Time](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/31%20-%20Form%20Part%208%20%E2%80%93%20File%2C%20Search%2C%20URL%2C%20Time.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 32 - [Form Part 9 – Data List, NoValidate, Target]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 32 - [Form Part 9 – Data List, NoValidate, Target](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/32%20-%20Form%20Part%209%20%E2%80%93%20Data%20List%2C%20NoValidate%2C%20Target.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 33 - [Q, BlockQuote, Wbr, Bdi, Button]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 33 - [Q, BlockQuote, Wbr, Bdi, Button](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/33%20-%20Q%2C%20BlockQuote%2C%20Wbr%2C%20Bdi%2C%20Button.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 34 - [iFrame, Pre, Code]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 34 - [iFrame, Pre, Code](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/34%20-%20iFrame%2C%20Pre%2C%20Code.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 35 - [Accessibility Intro]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 35 - [Accessibility Introduction](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/35%20-%20Accessibility%20Intro.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 36 - [ARIA And Screen Readers]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 36 - [ARIA And Screen Readers](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/36%20-%20ARIA%20And%20Screen%20Readers.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 37 - [The End And What To Do]()
+&nbsp;&nbsp;&nbsp;&nbsp; ![CheckBox](https://via.placeholder.com/12/32CD32/000000?text=+) - `Watched` - 37 - [The End And What To Do](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/37%20-%20The%20End%20And%20What%20To%20Do.html)
 
 ---
 
