@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Assignment 1</title>
+    </head>
+    <body>
+        <h1>Registeration Form</h1>
+        <form action="test.py" method="POST">
+            <input type="hidden" value="12" />
+            <label>Username</label>
+            <br />
+            <input
+                type="text"
+                placeholder="Enter Your Username"
+                name="username"
+                required
+            />
+            <hr />
+            <label>Password</label>
+            <br />
+            <input
+                type="password"
+                placeholder="Enter a Complex Password"
+                name="pass"
+                required
+            />
+            <hr />
+            <label>Mobile</label>
+            <br />
+            <input
+                type="tel"
+                placeholder="Enter Your Phone Number"
+                name="Mobile"
+            />
+            <hr />
+            <label>Email</label>
+            <br />
+            <input
+                type="email"
+                required
+                placeholder="Enter Your Email"
+                name="Email"
+            />
+            <hr />
+            <label>Subject</label>
+            <br />
+            <input type="text" placeholder="Enter Your Problem" name="Sub" />
+            <br />
+            <hr />
+            <input type="submit" value="Send Data" />
+            <input type="reset" value="Empty Form" />
+        </form>
+    </body>
+</html>
