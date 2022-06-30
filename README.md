@@ -1,24 +1,23 @@
-![HTML Course](https://i.ibb.co/xFRbrB9/image.png)
+![HTML Course](https://user-images.githubusercontent.com/90455303/176652557-13edc1b1-b3ed-46d8-94a8-3880aa41f88c.png)
 
 # HTML Course From [Elzero Web School](https://elzero.org/)
 
 [Course Study Plan](https://elzero.org/study/html-2021-study-plan/) => [ 03 From 03 ] - Weeks
 
-![100%](https://progress-bar.dev/100/)
+![100%](https://progress-bar.dev/100/?title=Done)
 
 ---
 
-[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) => [ 37 From 37 ] - Videos
+[Videos Watched](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) => [ 37 From 37 ] - Videos ( 04 Hours, 12 Minutes, 53 Seconds )
 
-![100%](https://progress-bar.dev/100/)
-
----
-
-[Assignments Solved](https://elzero.org/category/assignments/html-assignments/) => [ 09 From 09 ] - Assignments
-
-![100%](https://progress-bar.dev/100/)
+![100%](https://progress-bar.dev/100/?title=Watched)
 
 ---
+
+[Assignments Solved](https://elzero.org/category/assignments/html-assignments/) => [ 26 From 26 ] - Assignments ( 09 Topics )
+
+## ![100%](https://progress-bar.dev/100/?title=Solved)
+
 ## Lessons
 
 - `Watched` - 01 - [Introduction And What I Need To Learn ?](https://github.com/PhilopaterHany/HTML-Course/blob/main/Lessons/01%20%E2%80%93%20Introduction%20and%20What%20I%20Need%20To%20Learn.html)
@@ -118,8 +117,48 @@
 - `Solved` - [Assignments For Lessons From [ 35 ] To [ 37 ]](https://elzero.org/html-assignments-lesson-from-35-to-37/) => [Solution](https://github.com/PhilopaterHany/HTML-Course/tree/main/Assignments/Assignments%20For%20Lessons%20From%20%5B%2035%20%5D%20To%20%5B%2037%20%5D)
 
 ---
+
+## Assignments Live Preview
+
+|                          Assignment                          |                                                                                     Live Preview Link                                                                                      |
+| :----------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Assignments For Lessons From [ 01 ] To [ 05 ] - Assignment 1 |                                                                                         No Preview                                                                                         |
+| Assignments For Lessons From [ 01 ] To [ 05 ] - Assignment 2 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2001%20%5D%20To%20%5B%2005%20%5D/Assignment%202.html)           |
+| Assignments For Lessons From [ 01 ] To [ 05 ] - Assignment 3 |                                                                                         No Preview                                                                                         |
+| Assignments For Lessons From [ 01 ] To [ 05 ] - Assignment 4 |                                                                                         No Preview                                                                                         |     |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 06 ] To [ 10 ] - Assignment 1 |                                                                                         No Preview                                                                                         |
+| Assignments For Lessons From [ 06 ] To [ 10 ] - Assignment 2 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2006%20%5D%20To%20%5B%2010%20%5D/Assignment%202.html)           |
+| Assignments For Lessons From [ 06 ] To [ 10 ] - Assignment 3 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2006%20%5D%20To%20%5B%2010%20%5D/Assignment%203.html)           |
+| Assignments For Lessons From [ 06 ] To [ 10 ] - Assignment 4 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2006%20%5D%20To%20%5B%2010%20%5D/Assignment%204.html)           |
+| Assignments For Lessons From [ 06 ] To [ 10 ] - Assignment 5 |                                                                                         No Preview                                                                                         |
+| Assignments For Lessons From [ 06 ] To [ 10 ] - Assignment 6 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2006%20%5D%20To%20%5B%2010%20%5D/Assignment%206.html)           |     |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 11 ] To [ 14 ] - Assignment 1 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2011%20%5D%20To%20%5B%2014%20%5D/Assignment%201.html)           |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 15 ] To [ 18 ] - Assignment 1 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2015%20%5D%20To%20%5B%2018%20%5D/Assignment%201.html)           |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 19 ] To [ 23 ] - Assignment 1 |                                                                                         No Preview                                                                                         |
+| Assignments For Lessons From [ 19 ] To [ 23 ] - Assignment 2 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2019%20%5D%20To%20%5B%2023%20%5D/Assignment%202.html)           |
+| Assignments For Lessons From [ 19 ] To [ 23 ] - Assignment 3 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2019%20%5D%20To%20%5B%2023%20%5D/Assignment%203.html)           |
+| Assignments For Lessons From [ 19 ] To [ 23 ] - Assignment 4 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2019%20%5D%20To%20%5B%2023%20%5D/Assignment%204.html)           |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 24 ] To [ 27 ] - Assignment 1 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2024%20%5D%20To%20%5B%2027%20%5D/Assignment%201.html)           |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 28 ] To [ 30 ] - Assignment 1 | [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2028%20%5D%20To%20%5B%2030%20%5D/Assignment%201%20%26%202%20%26%203.html) |
+| Assignments For Lessons From [ 28 ] To [ 30 ] - Assignment 2 | [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2028%20%5D%20To%20%5B%2030%20%5D/Assignment%201%20%26%202%20%26%203.html) |
+| Assignments For Lessons From [ 28 ] To [ 30 ] - Assignment 3 | [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2028%20%5D%20To%20%5B%2030%20%5D/Assignment%201%20%26%202%20%26%203.html) |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 31 ] To [ 34 ] - Assignment 1 |      [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2031%20%5D%20To%20%5B%2034%20%5D/Assignment%201%20%26%202.html)      |
+| Assignments For Lessons From [ 31 ] To [ 34 ] - Assignment 2 |      [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2031%20%5D%20To%20%5B%2034%20%5D/Assignment%201%20%26%202.html)      |
+| Assignments For Lessons From [ 31 ] To [ 34 ] - Assignment 3 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2031%20%5D%20To%20%5B%2034%20%5D/Assignment%203.html)           |
+| Assignments For Lessons From [ 31 ] To [ 34 ] - Assignment 4 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2031%20%5D%20To%20%5B%2034%20%5D/Assignment%204.html)           |
+|                              -                               |                                                                                             -                                                                                              |
+| Assignments For Lessons From [ 35 ] To [ 37 ] - Assignment 1 |                                                                                         No Preview                                                                                         |
+| Assignments For Lessons From [ 35 ] To [ 37 ] - Assignment 2 |           [Live Preview](https://philopaterhany.github.io/HTML-Course/Assignments/Assignments%20For%20Lessons%20From%20%5B%2035%20%5D%20To%20%5B%2037%20%5D/Assignment%202.html)           |
+
 ---
 
-### Made With :heart: By Philopater Hany 
+### Made With :heart: By Philopater Hany
 
 ### Check My [codepen.io](https://codepen.io/Rafay12/collections/?grid_type=list) Profile
